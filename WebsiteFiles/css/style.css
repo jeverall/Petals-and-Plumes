@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond');
+
+body {
+  background-color:#222;
+  /* background-color:darkslategrey; */
+  margin-bottom:68px;
+}
+
+header h1 {
+  font-size:6em;
+  font-family: garamond, EB garamond ,  tahoma , "sans serif";
+}
+
+.petals {
+  color: #a5c768;
+}
+
+.and {
+  color:#aaa;
+  font-size:.6em;
+  vertical-align:middle;
+}
+
+.plumes {
+  color: #52aa51;
+}
+
+header {
+  font-family:tahoma;
+}
+
+hr {
+  display: block;
+    margin: 0.5em auto 0;
+    border-width: .1em;
+    border-color:#c5c7ce;
+    background-color:#c4e9d2;
+    width:85%;
+}
+
+.logo {
+  height:70px;
+  margin:auto;
+}
+
+.logo2 {
+   height:25px;
+}
+
+.acreditation {
+  height:37px;
+  margin: 5px 10px;
+}
+
+.wording {
+  font-family: verdana;
+  font-size:1.3em;
+  line-height:1.8em;
+  word-spacing:0.2em;
+  margin:35px;
+  color:#ddd;
+}
+
+.img-responsive {
+    margin: auto;
+}
+
+p {
+  margin-bottom:2em;
+}
+
+.carousel img {
+  margin:auto;
+}
+
+.navbar {
+  border-top: 1px solid grey;
+  padding-top:5px;
+}
+
+.navbar-brand {
+  padding-top:12px;
+}
+
+.center {
+  line-height:48px;
+}
+
+h2 {
+  margin-bottom: 30px;
+  margin-top: 50px;
+}
+
+ul {
+  margin-bottom:30px;
+}
+
+.placeholder {
+  height:500px;
+  width:80%;
+  margin:10px auto;
+  text-align:center;
+}
+
+.textColor {
+  color:#ddd;
+}
+
+.btn {
+    box-shadow: -2px -2px 5px #000 inset;
+}
+
+form {
+  margin-top:50px;
+  margin-bottom:50px;
+}
+
+.statement {
+  margin-top:50px;
+}
+
+.aboutPic {
+ max-height:200px;
+}
+
+.t1 {
+  max-width:80%;
+  max-height:250px;
+}
+
+.t2 {
+    overflow: hidden;
+    max-width:90%;
+    max-height:250px;
+    margin: 0 auto;
+}
+
+.rotate {
+  transform: rotate(-90deg);
+  margin-top: 90px;
+  margin-bottom:90px;
+}
+
+.copyrightText {
+    color:#ddd;
+    text-align:center;
+    margin:30px 10px 0px
+}
+
+.copyrightText a:link, a:visited {
+    color:inherit;
+    text-decoration: underline;
+}
+
+.copyrightText a:hover, a:active {
+    color:green;
+}
+
+@media (max-width: 768px) {
+    .wording {
+        font-size:1em;
+    };
+}
+
+@media (min-width: 568px) {
+    #front_pic {
+        float: right; 
+        margin-left: 20px;
+    };
+}
+
+#front_pic {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.navbar-inverse .navbar-nav>.active>a {
+    background-color: #52aa51 !important;
+    margin-left:5px !important;
+    top: -5px !important;
+    border-radius: 0 0 8px 8px !important;
+}
+
+#contact_button {
+    border-radius: 20px;
+    border: 2px solid white;
+    background-color: #222;
+    color: #ddd;
+}
