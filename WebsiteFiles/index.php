@@ -21,19 +21,16 @@ Working with you to make floral memories to last a life time.
   </div>
   <!-- Initial Statement -->
         
-  <div class="aboutDesign wording">
+  <div class="row wording">
     
-      <h2>Designs that are perfect for you and your venue</h2>
-    <img src="images/Steve%20Logo.png" class=" img-rounded t1" id="front_pic">
-      <p>We encourage you to communicate your dreams and aspirations,
-because it is all about you and your event.
-It is so much more than flowers.
-</p>
- 
- 
-      <p>
-          We look forward to your enquiry.
-      </p>
+        <h2>Designs that are perfect for you and your venue
+            <img src="images/Steve%20Logo.png" class=" img-rounded" id="front_pic"></h2>
+        <p>We encourage you to communicate your dreams and aspirations, because it is all about you and your event. It is so much more than flowers.
+        </p>
+  
+        <p>
+        We look forward to your enquiry.
+        </p>
       
   </div>
 
@@ -57,8 +54,10 @@ It is so much more than flowers.
         <span class="icon-bar"></span>
         <span class="icon-bar"></span> 
       </button>
+          <div>
         <a class="navbar-brand" href="/index.php"><img src="images/Steve%20Logo.png" class="logo2"></a>
           <a href="/index.php"><span class="petals center">Petals</span><span class="and center"> & </span><span class="plumes center">Plumes</span></a>
+          </div>
       </div>
       <div class="collapse navbar-collapse" id="myNavbar">
         <ul class="nav navbar-nav">

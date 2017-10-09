@@ -319,8 +319,10 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span> 
       </button>
+        <div>
         <a class="navbar-brand" href="/index.php"><img src="images/Steve%20Logo.png" class="logo2"></a>
           <a href="/index.php"><span class="petals center">Petals</span><span class="and center"> & </span><span class="plumes center">Plumes</span></a>
+        </div>
       </div>
       <div class="collapse navbar-collapse" id="myNavbar">
         <ul class="nav navbar-nav">

@@ -1,5 +1,5 @@
 
-<?php
+<?php 
 if(isset($_POST['email'])) {
  
     // EDIT THE 2 LINES BELOW AS REQUIRED
@@ -90,9 +90,9 @@ $headers = 'From: '.$email."\r\n".
     <hr>
 
 
-<div class="container-fluid">
-<div class="row">
-<div class="col-md-12 text-center wording middle tYou">
+<div class="container">
+<div class="row text-center wording">
+<div class="col-md-12">
  
     <p>Thank you for your enquiry you will receive a personal response within 48 hours.</p>
     
@@ -117,8 +117,10 @@ $headers = 'From: '.$email."\r\n".
         <span class="icon-bar"></span>
         <span class="icon-bar"></span> 
       </button>
+        <div>
         <a class="navbar-brand" href="/index.php"><img src="images/Steve%20Logo.png" class="logo2"></a>
           <a href="/index.php"><span class="petals center">Petals</span><span class="and center"> & </span><span class="plumes center">Plumes</span></a>
+        </div>
       </div>
       <div class="collapse navbar-collapse" id="myNavbar">
         <ul class="nav navbar-nav">
@@ -143,7 +145,7 @@ $headers = 'From: '.$email."\r\n".
 
 
  
-<?php
+<?php 
  
 } 
 ?>
