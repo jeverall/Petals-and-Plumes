@@ -170,8 +170,9 @@ form {
 }
 
 #front_pic {
-    margin-top: 10px;
-    margin-bottom: 20px;
+    display: block;
+    margin:20px auto;
+    max-width: 200px;
 }
 
 .navbar-inverse .navbar-nav>.active>a {
@@ -192,7 +193,7 @@ form {
 
 
 .thumbnail {
-    background-color: #bbb;
+    background-color: #222;
 }
 
 @media (min-width: 768px) {
@@ -215,4 +216,4 @@ form {
     opacity: 1;    
 }
     
-}
+} 

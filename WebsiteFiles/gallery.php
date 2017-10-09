@@ -9,13 +9,9 @@
       
 <div class="container">
 
-    <div class="row">
-    
-        <div class="col-md-12 wording text-center">
+    <div class="row text-center wording">
             
-            <h2>Gallery</h2>
-        
-        </div>
+        <h2>Portfolio Gallery</h2>
     
     </div>
 
