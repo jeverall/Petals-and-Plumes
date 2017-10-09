@@ -187,3 +187,32 @@ form {
     background-color: #222;
     color: #ddd;
 }
+
+/* Thubmnail Styles */
+
+
+.thumbnail {
+    background-color: #bbb;
+}
+
+@media (min-width: 768px) {
+    
+    .thumbnail {
+        display: flex;
+    }
+
+    .thumbnail-container a {
+        height:200px;
+        box-sizing:content-box;
+}
+    .thumbnail img {
+        max-height:200px;
+        align-self: center;        
+}
+    .thumbnail img:hover {
+    transform: scale(1.2);
+    box-shadow: 0 0 7px rgba(0,0,0, .5);
+    opacity: 1;    
+}
+    
+}

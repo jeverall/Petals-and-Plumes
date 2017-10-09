@@ -10,15 +10,15 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
       <div class="item active">
-        <img src="images/Main%201.jpg" alt="Purple and red flowers">
+        <img src="gallery/pp%20(2).jpg" alt="White flowers table piece">
       </div>
 
       <div class="item">
-        <img src="images/Yellow%20BH.jpg" alt="Yellow flowers">
+        <img src="gallery/pp%20(3).jpg" alt="Yellow flowers">
       </div>
 
       <div class="item">
-        <img src="images/Main%204.jpg" alt="White flowers with green foliage">
+        <img src="gallery/pp%20(11).jpg" alt="White flowers with green foliage">
       </div>
     </div>
 

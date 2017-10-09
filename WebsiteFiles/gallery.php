@@ -20,289 +20,244 @@
     </div>
 
 </div>
+    
 
 <div class="container">      
+<div class="thumbnail-container">
       
 <div class="row">
-      <div class="col-md-3">
-        <a href="/Gallery%20Pictures/brown.jpeg" class="thumbnail">
-          <img src="/Gallery%20Pictures/brown.jpeg" alt="...">
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="gallery/pp%20(1).jpg" class="thumbnail" data-lightbox="gallery">
+      <img src="gallery/pp%20(1).jpg" alt="purple and red flowers">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(2).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(2).jpg" alt="white flower piece">
         </a>
       </div>
-
-
-      <div class="col-md-3">
-        <a href="/Gallery%20Pictures/couple.jpeg" class="thumbnail">
-          <img src="/Gallery%20Pictures/couple.jpeg" alt="...">
+    
+ <div class=" col-sm-4 col-md-3">
+    <a href="/gallery/pp%20(3).jpg" class="thumbnail" data-lightbox="gallery">
+      <img src="/gallery/pp%20(3).jpg" alt="yellow flowers">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(4).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(4).jpg" alt="purple table piece">
         </a>
       </div>
-
-
-      <div class="col-md-3">
-        <a href="/images/Main%201.jpg" class="thumbnail">
-          <img src="/images/Main%201.jpg" alt="...">
+    
+<div class="col-sm-4 col-md-3">
+    <a href="gallery/pp%20(5).jpg" class="thumbnail" data-lightbox="gallery">
+      <img src="gallery/pp%20(5).jpg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(6).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(6).jpg" alt="...">
         </a>
       </div>
-
-
-      <div class="col-md-3">
-        <a href="/Gallery%20Pictures/green_leaf.jpeg" class="thumbnail">
-          <img src="/Gallery%20Pictures/green_leaf.jpeg" alt="...">
+    
+ <div class=" col-sm-4 col-md-3">
+    <a href="/gallery/pp%20(7).jpg" class="thumbnail" data-lightbox="gallery">
+      <img src="/gallery/pp%20(7).jpg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(8).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(8).jpg" alt="...">
         </a>
       </div>
-</div> <!-- row 1 --> 
-
-<div class="row">    
     
-  <div class="col-xs-6 col-md-3">
-    <a href="/Gallery%20Pictures/lime_button.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/lime_button.jpeg" alt="...">
-    </a>
-  </div>
- 
- 
-  <div class="col-xs-6 col-md-3">
-    <a href="/Gallery%20Pictures/orange_twig.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/orange_twig.jpeg" alt="...">
-    </a>
-  </div>
- 
- 
-  <div class="col-xs-6 col-md-3">
-    <a href="/Gallery%20Pictures/pink_bunch.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/pink_bunch.jpeg" alt="...">
-    </a>
-  </div>
- 
- 
-  <div class="col-xs-6 col-md-3">
-    <a href="/Gallery%20Pictures/pink_bunch2.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/pink_bunch2.jpeg" alt="...">
-    </a>
-  </div>
- 
-</div> <!-- row 2 -->
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(9).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(9).jpg" alt="...">
+        </a>
+      </div>
     
-<div class="row">
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(10).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(10).jpg" alt="...">
+        </a>
+      </div>
     
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(11).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(11).jpg" alt="...">
+        </a>
+      </div>
     
-  <div class="col-md-3">
-    <a href="/Gallery%20Pictures/pink_button.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/pink_button.jpeg" alt="...">
-    </a>
-  </div>
- 
- 
-  <div class="col-md-3">
-    <a href="/Gallery%20Pictures/green_button.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/green_button.jpeg" alt="...">
-    </a>
-  </div>
- 
- 
-  <div class="col-md-3">
-    <a href="/Gallery%20Pictures/purple_button.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/purple_button.jpeg" alt="...">
-    </a>
-  </div>
- 
-</div> <!-- row 3 -->
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(12).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(12).jpg" alt="...">
+        </a>
+      </div>
     
-<div class="row">
- 
-  <div class="col-xs-6 col-md-3">
-    <a href="/Gallery%20Pictures/pink_rose.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/pink_rose.jpeg" alt="...">
-    </a>
-  </div>
- 
-    </div> <!-- row 4 -->
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(13).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(13).jpg" alt="...">
+        </a>
+      </div>
     
-<div class="row">
- 
-  <div class="col-md-3">
-    <a href="/Gallery%20Pictures/white_wreath.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/white_wreath.jpeg" alt="...">
-    </a>
-  </div>
- 
- 
-  <div class="col-md-3">
-    <a href="/images/White%20Vase.jpg" class="thumbnail">
-      <img src="/images/White%20Vase.jpg" alt="...">
-    </a>
-  </div>
- 
- 
-  <div class="col-md-3">
-    <a href="/Gallery%20Pictures/red_bunch2.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/red_bunch2.jpeg" alt="...">
-    </a>
-  </div>
- 
- 
-  <div class="col-md-3">
-    <a href="/Gallery%20Pictures/red_bunch3.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/red_bunch3.jpeg" alt="...">
-    </a>
-  </div>
- 
-    </div> <!-- row 5 -->
- 
-<div class="row">
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(14).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(14).jpg" alt="...">
+        </a>
+      </div>
     
-   <div class="col-xs-6 col-md-3">
-    <a href="Gallery%20Pictures/pink_fluffy.jpeg" class="thumbnail">
-      <img src="Gallery%20Pictures/pink_fluffy.jpeg" alt="...">
-    </a>
-  </div>
-      
-        
-  <div class="col-xs-6 col-md-3">
-    <a href="images/White%20Ped.jpg" class="thumbnail">
-      <img src="images/White%20Ped.jpg" alt="...">
-    </a>
-  </div>
- 
- 
-  <div class="col-xs-6 col-md-3">
-    <a href="images/White%20BH.jpg" class="thumbnail">
-      <img src="images/White%20BH.jpg" alt="...">
-    </a>
-  </div>
- 
- 
-  <div class="col-xs-6 col-md-3">
-    <a href="images/Pink%20BH.jpg" class="thumbnail">
-      <img src="images/Pink%20BH.jpg" alt="...">
-    </a>
-  </div>
-
-
-
-</div> <!-- row 6 --> 
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(15).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(15).jpg" alt="...">
+        </a>
+      </div>
     
-    <div class="row">
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(16).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(16).jpg" alt="...">
+        </a>
+      </div>
     
-  <div class="col-xs-6 col-md-3">
-    <a href="images/Red%20Table.jpg" class="thumbnail">
-      <img src="images/Red%20Table.jpg" alt="...">
-    </a>
-  </div>
- 
- 
-  <div class="col-xs-6 col-md-3">
-    <a href="images/Main%204.jpg" class="thumbnail">
-      <img src="images/Main%204.jpg" alt="...">
-    </a>
-  </div>
- 
- 
-  <div class="col-xs-6 col-md-3">
-    <a href="images/Yellow%20BH.jpg" class="thumbnail">
-      <img src="images/Yellow%20BH.jpg" alt="...">
-    </a>
-  </div>
- 
- 
-  <div class="col-xs-6 col-md-3">
-    <a href="images/Purple%20Red%20BH.jpg" class="thumbnail">
-      <img src="images/Purple%20Red%20BH.jpg" alt="...">
-    </a>
-  </div>
-
-
-</div> <!-- row 7 --> 
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(17).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(17).jpg" alt="...">
+        </a>
+      </div>
     
-    <div class="row">
-
-   <div class="col-xs-12 col-md-3">
-    <a href="/images/Pink%20Vase.jpg" class="thumbnail">
-      <img src="/images/Pink%20Vase.jpg" alt="...">
-    </a>
-  </div>
- 
-  <div class="col-xs-12 col-md-3">
-    <a href="/Gallery%20Pictures/red_vase.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/red_vase.jpeg" alt="...">
-    </a>
-  </div>
-        
-    <div class="col-xs-6 col-md-3">
-    <a href="/Gallery%20Pictures/table_set.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/table_set.jpeg" alt="...">
-    </a>
-  </div>
- 
-  <div class="col-xs-6 col-md-3">
-    <a href="Gallery%20Pictures/pink_green_room.jpeg" class="thumbnail">
-      <img src="Gallery%20Pictures/pink_green_room.jpeg" alt="...">
-    </a>
-  </div>
- 
-
-</div> <!-- row 8 --> 
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(18).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(18).jpg" alt="...">
+        </a>
+      </div>
     
-    <div class="row">
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(19).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(19).jpg" alt="...">
+        </a>
+      </div>
     
-   <div class="col-md-3">
-    <a href="Gallery%20Pictures/purple_green_vase.jpeg" class="thumbnail">
-      <img src="Gallery%20Pictures/purple_green_vase.jpeg" alt="...">
-    </a>
-  </div>
-
-  <div class="col-xs-4 col-md-3">
-    <a href="/Gallery%20Pictures/red_bunch1.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/red_bunch1.jpeg" alt="...">
-    </a>
-  </div>
-        
-  <div class="col-xs-4 col-md-3">
-    <a href="/images/Purple%20Heart.jpg" class="thumbnail">
-      <img src="/images/Purple%20Heart.jpg" alt="...">
-    </a>
-  </div> 
-
-   <div class="col-xs-4 col-md-3">
-    <a href="/images/Pink%20&%20White%20BH.jpg" class="thumbnail">
-      <img src="/images/Pink%20&%20White%20BH.jpg" alt="...">
-    </a>
-  </div>
- 
-
-
-</div> <!-- row 9 --> 
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(20).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(20).jpg" alt="...">
+        </a>
+      </div>
     
-    <div class="row">
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(21).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(21).jpg" alt="...">
+        </a>
+      </div>
     
-  <div class="col-md-3">
-    <a href="/Gallery%20Pictures/white_bunch.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/white_bunch.jpeg" alt="...">
-    </a>
-  </div>
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(22).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(22).jpg" alt="...">
+        </a>
+      </div>
     
-    <div class="col-md-3">
-    <a href="Gallery%20Pictures/pink_green_tab.jpeg" class="thumbnail">
-      <img src="Gallery%20Pictures/pink_green_tab.jpeg" alt="...">
-    </a>
-  </div>  
-
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(23).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(23).jpg" alt="...">
+        </a>
+      </div>
     
-  <div class="col-md-3">
-    <a href="Gallery%20Pictures/purple_white_wed.jpeg" class="thumbnail">
-      <img src="Gallery%20Pictures/purple_white_wed.jpeg" alt="...">
-    </a>
-  </div>
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(24).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(24).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(25).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(25).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(26).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(26).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(27).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(27).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(28).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(28).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(29).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(29).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(30).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(30).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(31).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(31).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(32).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(32).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(33).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(33).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(34).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(34).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(35).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(35).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(36).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(36).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery/pp%20(37).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery/pp%20(37).jpg" alt="...">
+        </a>
+      </div>
     
 
-  <div class="col-md-3">
-    <a href="/Gallery%20Pictures/white_button.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/white_button.jpeg" alt="...">
-    </a>
-  </div>        
-
-</div> <!-- row 10 --> 
     
+    
+    
+    
+</div>
+
+</div> <!-- /thumbnails --> 
+    </div>
 
       <!-- /Content -->
       
