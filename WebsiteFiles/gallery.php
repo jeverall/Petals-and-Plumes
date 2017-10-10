@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html >
-
+<!-- test git -->
     <?php include 'header.php'; ?>
 
     <hr>
@@ -9,300 +9,634 @@
       
 <div class="container">
 
-    <div class="row">
-    
-        <div class="col-md-12 wording text-center">
+    <div class="row text-center wording">
             
-            <h2>Gallery</h2>
-        
-        </div>
+        <h2>Portfolio Gallery</h2>
     
     </div>
 
 </div>
+    
 
-<div class="container">      
+<div class="container">  <!-- portfolio container -->   
+<div class="thumbnail-container">
       
 <div class="row">
-      <div class="col-md-3">
-        <a href="/Gallery%20Pictures/brown.jpeg" class="thumbnail">
-          <img src="/Gallery%20Pictures/brown.jpeg" alt="...">
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="gallery-portfolio/Petals-and-Plumes%20(1).jpg" class="thumbnail" data-lightbox="gallery">
+      <img src="gallery-portfolio/Petals-and-Plumes%20(1).jpg" alt="purple and red flowers">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(2).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(2).jpg" alt="white flower piece">
         </a>
       </div>
-
-
-      <div class="col-md-3">
-        <a href="/Gallery%20Pictures/couple.jpeg" class="thumbnail">
-          <img src="/Gallery%20Pictures/couple.jpeg" alt="...">
+    
+ <div class=" col-sm-4 col-md-3">
+    <a href="/gallery-portfolio/Petals-and-Plumes%20(3).jpg" class="thumbnail" data-lightbox="gallery">
+      <img src="/gallery-portfolio/Petals-and-Plumes%20(3).jpg" alt="yellow flowers">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(4).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(4).jpg" alt="purple table piece">
         </a>
       </div>
-
-
-      <div class="col-md-3">
-        <a href="/images/Main%201.jpg" class="thumbnail">
-          <img src="/images/Main%201.jpg" alt="...">
+    
+<div class="col-sm-4 col-md-3">
+    <a href="gallery-portfolio/Petals-and-Plumes%20(5).jpg" class="thumbnail" data-lightbox="gallery">
+      <img src="gallery-portfolio/Petals-and-Plumes%20(5).jpg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(6).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(6).jpg" alt="...">
         </a>
       </div>
-
-
-      <div class="col-md-3">
-        <a href="/Gallery%20Pictures/green_leaf.jpeg" class="thumbnail">
-          <img src="/Gallery%20Pictures/green_leaf.jpeg" alt="...">
+    
+ <div class=" col-sm-4 col-md-3">
+    <a href="/gallery-portfolio/Petals-and-Plumes%20(7).jpg" class="thumbnail" data-lightbox="gallery">
+      <img src="/gallery-portfolio/Petals-and-Plumes%20(7).jpg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(8).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(8).jpg" alt="...">
         </a>
       </div>
-</div> <!-- row 1 --> 
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(9).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(9).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(10).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(10).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(11).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(11).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(12).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(12).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(13).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(13).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(14).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(14).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(15).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(15).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(16).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(16).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(17).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(17).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(18).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(18).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(19).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(19).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(20).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(20).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(21).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(21).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(22).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(22).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(23).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(23).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(24).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(24).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(25).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(25).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(26).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(26).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(27).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(27).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(28).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(28).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(29).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(29).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(30).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(30).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(31).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(31).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(32).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(32).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(33).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(33).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(34).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(34).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(35).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(35).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(36).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(36).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(37).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(37).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(38).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(38).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(39).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(39).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(40).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(40).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(41).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(41).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(42).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(42).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(43).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(43).jpg" alt="...">
+        </a>
+      </div>
+    
+</div>
 
-<div class="row">    
+</div> <!-- /thumbnail container --> 
+</div> <!-- /container for Portfoio Gallery -->
     
-  <div class="col-xs-6 col-md-3">
-    <a href="/Gallery%20Pictures/lime_button.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/lime_button.jpeg" alt="...">
-    </a>
-  </div>
- 
- 
-  <div class="col-xs-6 col-md-3">
-    <a href="/Gallery%20Pictures/orange_twig.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/orange_twig.jpeg" alt="...">
-    </a>
-  </div>
- 
- 
-  <div class="col-xs-6 col-md-3">
-    <a href="/Gallery%20Pictures/pink_bunch.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/pink_bunch.jpeg" alt="...">
-    </a>
-  </div>
- 
- 
-  <div class="col-xs-6 col-md-3">
-    <a href="/Gallery%20Pictures/pink_bunch2.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/pink_bunch2.jpeg" alt="...">
-    </a>
-  </div>
- 
-</div> <!-- row 2 -->
+<div class="container"> <!-- container for inspiration gallery -->
+    <div class="row text-center wording">
+        <h2>Inspiration Gallery</h2>
+    </div>
+</div> <!-- Inspiration container --> 
     
-<div class="row">
-    
-    
-  <div class="col-md-3">
-    <a href="/Gallery%20Pictures/pink_button.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/pink_button.jpeg" alt="...">
-    </a>
-  </div>
- 
- 
-  <div class="col-md-3">
-    <a href="/Gallery%20Pictures/green_button.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/green_button.jpeg" alt="...">
-    </a>
-  </div>
- 
- 
-  <div class="col-md-3">
-    <a href="/Gallery%20Pictures/purple_button.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/purple_button.jpeg" alt="...">
-    </a>
-  </div>
- 
-</div> <!-- row 3 -->
-    
-<div class="row">
- 
-  <div class="col-xs-6 col-md-3">
-    <a href="/Gallery%20Pictures/pink_rose.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/pink_rose.jpeg" alt="...">
-    </a>
-  </div>
- 
-    </div> <!-- row 4 -->
-    
-<div class="row">
- 
-  <div class="col-md-3">
-    <a href="/Gallery%20Pictures/white_wreath.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/white_wreath.jpeg" alt="...">
-    </a>
-  </div>
- 
- 
-  <div class="col-md-3">
-    <a href="/images/White%20Vase.jpg" class="thumbnail">
-      <img src="/images/White%20Vase.jpg" alt="...">
-    </a>
-  </div>
- 
- 
-  <div class="col-md-3">
-    <a href="/Gallery%20Pictures/red_bunch2.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/red_bunch2.jpeg" alt="...">
-    </a>
-  </div>
- 
- 
-  <div class="col-md-3">
-    <a href="/Gallery%20Pictures/red_bunch3.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/red_bunch3.jpeg" alt="...">
-    </a>
-  </div>
- 
-    </div> <!-- row 5 -->
- 
-<div class="row">
-    
-   <div class="col-xs-6 col-md-3">
-    <a href="Gallery%20Pictures/pink_fluffy.jpeg" class="thumbnail">
-      <img src="Gallery%20Pictures/pink_fluffy.jpeg" alt="...">
-    </a>
-  </div>
+<div class="container">     
+<div class="thumbnail-container">
       
-        
-  <div class="col-xs-6 col-md-3">
-    <a href="images/White%20Ped.jpg" class="thumbnail">
-      <img src="images/White%20Ped.jpg" alt="...">
-    </a>
-  </div>
- 
- 
-  <div class="col-xs-6 col-md-3">
-    <a href="images/White%20BH.jpg" class="thumbnail">
-      <img src="images/White%20BH.jpg" alt="...">
-    </a>
-  </div>
- 
- 
-  <div class="col-xs-6 col-md-3">
-    <a href="images/Pink%20BH.jpg" class="thumbnail">
-      <img src="images/Pink%20BH.jpg" alt="...">
-    </a>
-  </div>
-
-
-
-</div> <!-- row 6 --> 
+<div class="row">
     
-    <div class="row">
-    
-  <div class="col-xs-6 col-md-3">
-    <a href="images/Red%20Table.jpg" class="thumbnail">
-      <img src="images/Red%20Table.jpg" alt="...">
-    </a>
-  </div>
- 
- 
-  <div class="col-xs-6 col-md-3">
-    <a href="images/Main%204.jpg" class="thumbnail">
-      <img src="images/Main%204.jpg" alt="...">
-    </a>
-  </div>
- 
- 
-  <div class="col-xs-6 col-md-3">
-    <a href="images/Yellow%20BH.jpg" class="thumbnail">
-      <img src="images/Yellow%20BH.jpg" alt="...">
-    </a>
-  </div>
- 
- 
-  <div class="col-xs-6 col-md-3">
-    <a href="images/Purple%20Red%20BH.jpg" class="thumbnail">
-      <img src="images/Purple%20Red%20BH.jpg" alt="...">
-    </a>
-  </div>
-
-
-</div> <!-- row 7 --> 
-    
-    <div class="row">
-
-   <div class="col-xs-12 col-md-3">
-    <a href="/images/Pink%20Vase.jpg" class="thumbnail">
-      <img src="/images/Pink%20Vase.jpg" alt="...">
-    </a>
-  </div>
- 
-  <div class="col-xs-12 col-md-3">
-    <a href="/Gallery%20Pictures/red_vase.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/red_vase.jpeg" alt="...">
-    </a>
-  </div>
-        
-    <div class="col-xs-6 col-md-3">
-    <a href="/Gallery%20Pictures/table_set.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/table_set.jpeg" alt="...">
-    </a>
-  </div>
- 
-  <div class="col-xs-6 col-md-3">
-    <a href="Gallery%20Pictures/pink_green_room.jpeg" class="thumbnail">
-      <img src="Gallery%20Pictures/pink_green_room.jpeg" alt="...">
-    </a>
-  </div>
- 
-
-</div> <!-- row 8 --> 
-    
-    <div class="row">
-    
-   <div class="col-md-3">
-    <a href="Gallery%20Pictures/purple_green_vase.jpeg" class="thumbnail">
-      <img src="Gallery%20Pictures/purple_green_vase.jpeg" alt="...">
-    </a>
-  </div>
-
-  <div class="col-xs-4 col-md-3">
-    <a href="/Gallery%20Pictures/red_bunch1.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/red_bunch1.jpeg" alt="...">
-    </a>
-  </div>
-        
-  <div class="col-xs-4 col-md-3">
-    <a href="/images/Purple%20Heart.jpg" class="thumbnail">
-      <img src="/images/Purple%20Heart.jpg" alt="...">
-    </a>
-  </div> 
-
-   <div class="col-xs-4 col-md-3">
-    <a href="/images/Pink%20&%20White%20BH.jpg" class="thumbnail">
-      <img src="/images/Pink%20&%20White%20BH.jpg" alt="...">
-    </a>
-  </div>
- 
-
-
-</div> <!-- row 9 --> 
-    
-    <div class="row">
-    
-  <div class="col-md-3">
-    <a href="/Gallery%20Pictures/white_bunch.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/white_bunch.jpeg" alt="...">
+    <div class="col-sm-4 col-md-3">
+    <a href="gallery-inspiration/Petals-and-Plumes%20(1).jpg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(1).jpeg" alt="...">
     </a>
   </div>
     
-    <div class="col-md-3">
-    <a href="Gallery%20Pictures/pink_green_tab.jpeg" class="thumbnail">
-      <img src="Gallery%20Pictures/pink_green_tab.jpeg" alt="...">
-    </a>
-  </div>  
-
-    
-  <div class="col-md-3">
-    <a href="Gallery%20Pictures/purple_white_wed.jpeg" class="thumbnail">
-      <img src="Gallery%20Pictures/purple_white_wed.jpeg" alt="...">
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(2).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(2).jpeg" alt="...">
     </a>
   </div>
     
-
-  <div class="col-md-3">
-    <a href="/Gallery%20Pictures/white_button.jpeg" class="thumbnail">
-      <img src="/Gallery%20Pictures/white_button.jpeg" alt="...">
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(3).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(3).jpeg" alt="...">
     </a>
-  </div>        
-
-</div> <!-- row 10 --> 
+  </div>
     
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(4).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(4).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(5).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(5).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(6).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(6).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(7).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(7).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(8).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(8).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(9).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(9).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(10).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(10).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(11).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(11).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(12).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(12).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(13).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(13).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(14).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(14).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(15).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(15).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(16).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(16).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(17).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(17).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(18).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(18).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(19).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(19).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(20).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(20).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(21).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(21).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(22).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(22).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(23).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(23).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(24).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(24).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(25).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(25).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(26).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(26).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(27).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(27).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(28).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(28).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(29).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(29).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(30).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(30).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(31).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(31).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(32).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(32).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(33).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(33).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(34).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(34).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(35).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(35).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(36).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(36).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(37).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(37).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(38).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(38).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(39).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(39).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(40).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(40).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(41).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(41).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(42).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(42).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(43).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(43).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(44).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(44).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(45).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(45).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(46).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(46).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(47).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(47).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(48).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(48).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(49).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(49).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(50).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(50).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(51).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(51).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(52).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(52).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(53).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(53).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(54).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(54).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(55).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(55).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(56).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(56).jpeg" alt="...">
+    </a>
+  </div>
+    
+    
+</div> <!-- /inspiration row -->
+</div> <!-- /thumbnail container --> 
+</div> <!-- /container for Inspiration Gallery -->
 
       <!-- /Content -->
       
@@ -319,8 +653,10 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span> 
       </button>
+        <div>
         <a class="navbar-brand" href="/index.php"><img src="images/Steve%20Logo.png" class="logo2"></a>
           <a href="/index.php"><span class="petals center">Petals</span><span class="and center"> & </span><span class="plumes center">Plumes</span></a>
+        </div>
       </div>
       <div class="collapse navbar-collapse" id="myNavbar">
         <ul class="nav navbar-nav">

@@ -7,7 +7,7 @@
     
         <div class="container-fluid">
     <div class="row">
-        <img src="Gallery%20Pictures/green_leaf.jpeg" class="img-responsive img-rounded">
+        <img src="/gallery/pp%20(4).jpg" class="img-responsive img-rounded">
     </div>
     <!-- About pictures row -->
   </div>
@@ -51,8 +51,10 @@ Petals and Plumes was established in October 2017 by Stephen Gayden-Ballard IOPF
         <span class="icon-bar"></span>
         <span class="icon-bar"></span> 
       </button>
+        <div>
         <a class="navbar-brand" href="/index.php"><img src="images/Steve%20Logo.png" class="logo2"></a>
           <a href="/index.php"><span class="petals center">Petals</span><span class="and center"> & </span><span class="plumes center">Plumes</span></a>
+        </div>
       </div>
       <div class="collapse navbar-collapse" id="myNavbar">
         <ul class="nav navbar-nav">
