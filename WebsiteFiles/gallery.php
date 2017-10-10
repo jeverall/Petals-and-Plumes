@@ -275,6 +275,60 @@
         </a>
       </div>
     
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(44).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(44).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(45).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(45).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(46).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(46).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(47).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(47).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(48).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(48).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(49).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(49).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(58).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(58).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(51).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(51).jpg" alt="...">
+        </a>
+      </div>
+    
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(52).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(52).jpg" alt="...">
+        </a>
+      </div>
+    
 </div>
     
 </div> <!-- Portfolio container -->
@@ -620,6 +674,36 @@
     <div class="col-sm-4 col-md-3">
     <a href="/gallery-inspiration/Petals-and-Plumes%20(56).jpeg" class="thumbnail" data-lightbox="gallery2">
       <img src="/gallery-inspiration/Petals-and-Plumes%20(56).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(57).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(57).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(58).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(58).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(59).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(59).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(60).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(60).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(61).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(61).jpeg" alt="...">
     </a>
   </div>
     
