@@ -115,6 +115,10 @@ form {
   margin-bottom:50px;
 }
 
+input[type="date"] {
+    -webkit-appearance: none;
+}
+
 .statement {
   margin-top:50px;
 }
