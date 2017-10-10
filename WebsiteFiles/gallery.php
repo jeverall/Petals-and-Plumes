@@ -9,19 +9,13 @@
       
 <div class="container">
 
-    <div class="row text-center wording">
+<div class="row text-center wording">
             
         <h2>Portfolio Gallery</h2>
     
     </div>
 
-</div>
-    
-
-<div class="container">  <!-- portfolio container -->   
-<div class="thumbnail-container">
-      
-<div class="row">
+<div class="row thumbnail-container">
     
     <div class="col-sm-4 col-md-3">
     <a href="gallery-portfolio/Petals-and-Plumes%20(1).jpg" class="thumbnail" data-lightbox="gallery">
@@ -282,20 +276,16 @@
       </div>
     
 </div>
+    
+</div> <!-- Portfolio container -->
 
-</div> <!-- /thumbnail container --> 
-</div> <!-- /container for Portfoio Gallery -->
     
 <div class="container"> <!-- container for inspiration gallery -->
-    <div class="row text-center wording">
-        <h2>Inspiration Gallery</h2>
-    </div>
-</div> <!-- Inspiration container --> 
-    
-<div class="container">     
-<div class="thumbnail-container">
+<div class="row text-center wording">
+    <h2>Inspiration Gallery</h2>
+</div> 
       
-<div class="row">
+<div class="row thumbnail-container">
     
     <div class="col-sm-4 col-md-3">
     <a href="gallery-inspiration/Petals-and-Plumes%20(1).jpg" class="thumbnail" data-lightbox="gallery2">
@@ -635,13 +625,12 @@
     
     
 </div> <!-- /inspiration row -->
-</div> <!-- /thumbnail container --> 
-</div> <!-- /container for Inspiration Gallery -->
 
-      <!-- /Content -->
-      
-<?php include 'copyright.php' ?>
+</div> <!-- Inspiration container --> 
     
+      <!-- /Content -->
+<div class="container">
+<?php include 'copyright.php' ?>
 </div>
     
   <!-- ** NAV BAR ** -->

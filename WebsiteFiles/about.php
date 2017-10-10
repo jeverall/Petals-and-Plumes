@@ -7,7 +7,7 @@
     
         <div class="container-fluid">
     <div class="row">
-        <img src="/gallery/pp%20(4).jpg" class="img-responsive img-rounded">
+        <img src="/gallery-portfolio/Petals-and-Plumes%20(4).jpg" class="img-responsive img-rounded">
     </div>
     <!-- About pictures row -->
   </div>
