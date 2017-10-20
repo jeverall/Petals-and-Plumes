@@ -12,25 +12,23 @@
     <div class="container">
     <div class="row">
     <div class="col-md-12">
-      
-    <!-- Initial Statement -->
-  <div class="statement wording">
-    <p>We provide a luxury innovative personal floral service, hand crafted for you. Using fresh flowers and foliage.
-Working with you to make floral memories to last a life time.
-</p>
+        
+  <div class="wording">
+      <p>We provide a luxury innovative personal floral service.</p>
+      <p>Designs hand crafted for you.</p>
+      <p>Using fresh flowers and foliage.</p>
+      <p>We work with you to create floral memories to last a lifetime.</p>
   </div>
   <!-- Initial Statement -->
         
-  <div class="row wording">
+  <div class="wording">
     
-        <h2>Designs that are perfect for you and your venue
-            <img src="images/Steve%20Logo.png" class=" img-rounded" id="front_pic"></h2>
-        <p>We encourage you to communicate your dreams and aspirations, because it is all about you and your event. It is so much more than flowers.
-        </p>
-  
-        <p>
-        We look forward to your enquiry.
-        </p>
+    <h2>Designs that are perfect for you and your venue
+            <img src="images/Steve%20Logo.png" class="float_pic img-rounded">
+    </h2>
+      <p>We encourage you to communicate your dreams and aspirations, because it is all about you and your event.</p>
+      <h3>"It is so much more than flowers"</h3>
+      <p>We look forward to your enquiry.</p>
       
   </div>
 
