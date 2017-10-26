@@ -17,7 +17,7 @@
 
 <div class="row thumbnail-container">
     
-    <div class="col-xs-col-sm-4 col-md-3">
+    <div class="col-sm-4 col-md-3">
     <a href="gallery-portfolio/Petals-and-Plumes%20(1).jpg" class="thumbnail" data-lightbox="gallery">
       <img src="gallery-portfolio/Petals-and-Plumes%20(1).jpg" alt="purple and red flowers">
     </a>
