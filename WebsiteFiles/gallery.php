@@ -323,6 +323,12 @@
         </a>
       </div>
     
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(52).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(52).jpg" alt="...">
+        </a>
+      </div>
+    
 </div>
     
 </div> <!-- Portfolio container -->
@@ -659,6 +665,36 @@
     </a>
   </div>
     
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(55).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(55).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(56).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(56).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(57).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(57).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(58).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(58).jpeg" alt="...">
+    </a>
+  </div>
+    
+    <div class="col-sm-4 col-md-3">
+    <a href="/gallery-inspiration/Petals-and-Plumes%20(59).jpeg" class="thumbnail" data-lightbox="gallery2">
+      <img src="/gallery-inspiration/Petals-and-Plumes%20(59).jpeg" alt="...">
+    </a>
+  </div>
+    
     
 </div> <!-- /inspiration row -->
 
@@ -679,7 +715,7 @@
         <span class="icon-bar"></span> 
       </button>
         <div>
-        <a class="navbar-brand" href="/index.php"><img src="images/Steve%20Logo.png" class="logo2" alt="Petals & Plumes logo"></a>
+        <a class="navbar-brand" href="/index.php"><img src="images/Steve%20Logo.png" class="logo2"></a>
           <a href="/index.php"><span class="petals center">Petals</span><span class="and center"> & </span><span class="plumes center">Plumes</span></a>
         </div>
       </div>
@@ -691,8 +727,8 @@
           <li class="active"><a href="/gallery.php">Gallery</a></li>
 
         </ul>
-        <img src="http://www.bfaflorist.org/Websites/212/images/product/1867208094large.jpg" class="acreditation navbar-right" alt="Institute of Professional Florists logo">
-        <img src="http://www.bfaflorist.org/Websites/212/Images/upload/image/BFA-Logo-with-words-exc.-org-med-size-outlines-white-background.jpg" class="acreditation navbar-right" alt="British Florist Association Logo">
+        <img src="http://www.bfaflorist.org/Websites/212/images/product/1867208094large.jpg" class="acreditation navbar-right">
+        <img src="http://www.bfaflorist.org/Websites/212/Images/upload/image/BFA-Logo-with-words-exc.-org-med-size-outlines-white-background.jpg" class="acreditation navbar-right">
       </div>
     </div>
   </nav>
