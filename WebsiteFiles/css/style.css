@@ -222,3 +222,18 @@ input[type="date"] {
 }
     
 } 
+
+.gap {
+    margin-top: 70px;
+}
+
+.italics {
+    font-style: italic;
+}
+
+#privacy_policy {
+    margin-top: 10px;
+    font-family: verdana;
+    color:#ddd;
+    text-decoration: underline;
+}

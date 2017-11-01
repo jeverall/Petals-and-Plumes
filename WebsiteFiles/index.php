@@ -21,13 +21,13 @@
   </div>
   <!-- Initial Statement -->
         
-  <div class="wording">
+  <div class="wording gap">
     
     <h2>Designs that are perfect for you and your venue
-            <img src="images/Steve%20Logo.png" class="float_pic img-rounded">
+            <img src="images/Steve%20Logo.png" class="float_pic img-rounded" alt="Petals & Plumes logo">
     </h2>
       <p>We encourage you to communicate your dreams and aspirations, because it is all about you and your event.</p>
-      <h3>"It is so much more than flowers"</h3>
+      <h3 class="italics">"It is so much more than flowers"</h3>
       <p>We look forward to your enquiry.</p>
       
   </div>
@@ -53,7 +53,7 @@
         <span class="icon-bar"></span> 
       </button>
           <div>
-        <a class="navbar-brand" href="/index.php"><img src="images/Steve%20Logo.png" class="logo2"></a>
+        <a class="navbar-brand" href="/index.php"><img src="images/Steve%20Logo.png" class="logo2" alt="Petals & Plumes logo"></a>
           <a href="/index.php"><span class="petals center">Petals</span><span class="and center"> & </span><span class="plumes center">Plumes</span></a>
           </div>
       </div>
@@ -65,8 +65,8 @@
           <li><a href="/gallery.php">Gallery</a></li>
 
         </ul>
-        <img src="http://www.bfaflorist.org/Websites/212/images/product/1867208094large.jpg" class="acreditation navbar-right">
-        <img src="http://www.bfaflorist.org/Websites/212/Images/upload/image/BFA-Logo-with-words-exc.-org-med-size-outlines-white-background.jpg" class="acreditation navbar-right">
+        <img src="http://www.bfaflorist.org/Websites/212/images/product/1867208094large.jpg" class="acreditation navbar-right" alt="Institute of Professional Florists logo">
+        <img src="http://www.bfaflorist.org/Websites/212/Images/upload/image/BFA-Logo-with-words-exc.-org-med-size-outlines-white-background.jpg" class="acreditation navbar-right" alt="British Florist Association Logo">
       </div>
     </div>
   </nav>

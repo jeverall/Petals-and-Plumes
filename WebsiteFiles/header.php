@@ -4,7 +4,7 @@
   <meta name="description" content="Petals and Plumes aims to create a bespoke floral experience, with each design creatively developed to capture your unique style.">
   <meta name="keywords" content="flowers, wedding, florist, petals, plumes, west midlands, birmingham">
   <meta name="author" content="James Everall">
-  <title>Petals & Plumes - Test Environment</title>
+  <title>Petals & Plumes</title>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
     

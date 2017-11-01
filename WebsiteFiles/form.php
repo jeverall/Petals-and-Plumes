@@ -57,6 +57,11 @@
             <div class="col-xs-4">
               <button type="reset" class="btn btn-primary">Reset</button>
             </div>
+            <div class="col-xs-12 col-sm-4">
+                <a href="/privacy.php" target="_blank">
+                    <p id="privacy_policy">Privacy Policy</p>
+                </a>
+            </div>
           </div>
         </form>
 

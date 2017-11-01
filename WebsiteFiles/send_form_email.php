@@ -118,7 +118,7 @@ $headers = 'From: '.$email."\r\n".
         <span class="icon-bar"></span> 
       </button>
         <div>
-        <a class="navbar-brand" href="/index.php"><img src="images/Steve%20Logo.png" class="logo2"></a>
+        <a class="navbar-brand" href="/index.php"><img src="images/Steve%20Logo.png" class="logo2" alt="Petals & Plumes logo"></a>
           <a href="/index.php"><span class="petals center">Petals</span><span class="and center"> & </span><span class="plumes center">Plumes</span></a>
         </div>
       </div>
@@ -130,8 +130,8 @@ $headers = 'From: '.$email."\r\n".
           <li><a href="/gallery.php">Gallery</a></li>
 
         </ul>
-        <img src="http://www.bfaflorist.org/Websites/212/images/product/1867208094large.jpg" class="acreditation navbar-right">
-        <img src="http://www.bfaflorist.org/Websites/212/Images/upload/image/BFA-Logo-with-words-exc.-org-med-size-outlines-white-background.jpg" class="acreditation navbar-right">
+        <img src="http://www.bfaflorist.org/Websites/212/images/product/1867208094large.jpg" class="acreditation navbar-right" alt="Institute of Professional Florists logo">
+        <img src="http://www.bfaflorist.org/Websites/212/Images/upload/image/BFA-Logo-with-words-exc.-org-med-size-outlines-white-background.jpg" class="acreditation navbar-right" alt="British Florist Association Logo">
       </div>
     </div>
   </nav>
