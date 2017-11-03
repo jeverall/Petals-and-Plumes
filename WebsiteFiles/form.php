@@ -36,7 +36,7 @@
             <label class="control-label col-sm-2 textColor" for="name">Event Date:</label>
             <div class="col-sm-10 input-group">
               
-              <input type="date" class="form-control ios" id="date" name="date">
+              <input type="date" class="form-control" id="date" name="date">
               <span class="input-group-addon"><i class="glyphicon glyphicon-calendar"></i></span>
             </div>
           </div>
@@ -56,6 +56,11 @@
             </div>
             <div class="col-xs-4">
               <button type="reset" class="btn btn-primary">Reset</button>
+            </div>
+            <div class="col-xs-12 col-sm-4">
+                <a href="/privacy.php" target="_blank">
+                    <p id="privacy_policy">Privacy Policy</p>
+                </a>
             </div>
           </div>
         </form>

@@ -7,7 +7,7 @@
     
     <div class="container-fluid">
     <div class="row">
-        <img src="/gallery-portfolio/Petals-and-Plumes%20(4).jpg" class="img-responsive img-rounded">
+        <img src="/gallery-portfolio/Petals-and-Plumes%20(5).jpg" class="img-responsive img-rounded" alt="Display of flowers">
     </div>
     </div>
 
@@ -17,7 +17,7 @@
       
 <div class="wording">
     
-    <img src="/images/profile_pic.jpg" class="float_pic img-circle">
+    <img src="/images/profile_pic.jpg" class="float_pic img-circle" alt="profile picture of Stephen Gayden-Ballard">
     <p>Based in the heart of the Midlands. In Birmingham's Jewellery Quarter.</p>
     <p>Petals and Plumes was established in October 2017 by Stephen Gayden-Ballard IOPF, who trained at the Botanical Garden's Birmingham.</p>
     <p>We offer high quality workmanship combined with an infectious enthusiasm.</p>
@@ -44,7 +44,7 @@
         <span class="icon-bar"></span> 
       </button>
         <div>
-        <a class="navbar-brand" href="/index.php"><img src="images/Steve%20Logo.png" class="logo2"></a>
+        <a class="navbar-brand" href="/index.php"><img src="images/Steve%20Logo.png" class="logo2" alt="Petals & Plumes logo"></a>
           <a href="/index.php"><span class="petals center">Petals</span><span class="and center"> & </span><span class="plumes center">Plumes</span></a>
         </div>
       </div>
@@ -56,8 +56,8 @@
           <li><a href="/gallery.php">Gallery</a></li>
 
         </ul>
-        <img src="http://www.bfaflorist.org/Websites/212/images/product/1867208094large.jpg" class="acreditation navbar-right">
-        <img src="http://www.bfaflorist.org/Websites/212/Images/upload/image/BFA-Logo-with-words-exc.-org-med-size-outlines-white-background.jpg" class="acreditation navbar-right">
+        <img src="/images/IOPF-logo.jpg" class="acreditation navbar-right" alt="Institute of Professional Florists logo">
+        <img src="/images/BFA-logo.jpg" class="acreditation navbar-right" alt="British Florist Association Logo">
       </div>
     </div>
   </nav>
