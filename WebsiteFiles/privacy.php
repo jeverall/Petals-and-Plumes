@@ -39,6 +39,7 @@ What we do with the information we gather
 </h3>
 <p>
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+</p>
 <ul>
 <li>
 Internal record keeping. 
@@ -50,7 +51,6 @@ We may use the information to improve our products and services.
 From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone or mail. We may use the information to customise the website according to your interests.
 </li>
 </ul>
-</p>
 <h3>
 Security
 </h3>
@@ -129,8 +129,8 @@ If you believe that any information we are holding on you is incorrect or incomp
           <li><a href="/gallery.php">Gallery</a></li>
           <li class="active"><a href="/privacy.php">Privacy Policy</a></li>
         </ul>
-        <img src="http://www.bfaflorist.org/Websites/212/images/product/1867208094large.jpg" class="acreditation navbar-right" alt="Institute of Professional Florists logo">
-        <img src="http://www.bfaflorist.org/Websites/212/Images/upload/image/BFA-Logo-with-words-exc.-org-med-size-outlines-white-background.jpg" class="acreditation navbar-right" alt="British Florist Association Logo">
+        <img src="/images/IOPF-logo.jpg" class="acreditation navbar-right" alt="Institute of Professional Florists logo">
+        <img src="/images/BFA-logo.jpg" class="acreditation navbar-right" alt="British Florist Association Logo">
       </div>
     </div>
   </nav>

@@ -36,7 +36,7 @@
             <label class="control-label col-sm-2 textColor" for="name">Event Date:</label>
             <div class="col-sm-10 input-group">
               
-              <input type="date" class="form-control ios" id="date" name="date">
+              <input type="date" class="form-control" id="date" name="date">
               <span class="input-group-addon"><i class="glyphicon glyphicon-calendar"></i></span>
             </div>
           </div>

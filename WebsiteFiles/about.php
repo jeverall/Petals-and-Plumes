@@ -7,7 +7,7 @@
     
     <div class="container-fluid">
     <div class="row">
-        <img src="/gallery-portfolio/Petals-and-Plumes%20(4).jpg" class="img-responsive img-rounded" alt="Display of flowers">
+        <img src="/gallery-portfolio/Petals-and-Plumes%20(5).jpg" class="img-responsive img-rounded" alt="Display of flowers">
     </div>
     </div>
 
@@ -56,8 +56,8 @@
           <li><a href="/gallery.php">Gallery</a></li>
 
         </ul>
-        <img src="http://www.bfaflorist.org/Websites/212/images/product/1867208094large.jpg" class="acreditation navbar-right" alt="Institute of Professional Florists logo">
-        <img src="http://www.bfaflorist.org/Websites/212/Images/upload/image/BFA-Logo-with-words-exc.-org-med-size-outlines-white-background.jpg" class="acreditation navbar-right" alt="British Florist Association Logo">
+        <img src="/images/IOPF-logo.jpg" class="acreditation navbar-right" alt="Institute of Professional Florists logo">
+        <img src="/images/BFA-logo.jpg" class="acreditation navbar-right" alt="British Florist Association Logo">
       </div>
     </div>
   </nav>
