@@ -7,7 +7,7 @@
     
     <div class="container-fluid">
     <div class="row">
-        <img src="/gallery-portfolio/Petals-and-Plumes%20(5).jpg" class="img-responsive img-rounded" alt="Display of flowers">
+        <img src="/gallery-portfolio/Petals-and-Plumes%20(6).jpg" class="img-responsive img-rounded" alt="Display of flowers">
     </div>
     </div>
 

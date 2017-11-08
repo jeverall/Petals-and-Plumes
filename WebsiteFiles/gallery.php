@@ -329,6 +329,12 @@
         </a>
       </div>
     
+    <div class="col-sm-4 col-md-3">
+        <a href="/gallery-portfolio/Petals-and-Plumes%20(53).jpg" class="thumbnail" data-lightbox="gallery">
+          <img src="/gallery-portfolio/Petals-and-Plumes%20(53).jpg" alt="...">
+        </a>
+      </div>
+    
 </div>
     
 </div> <!-- Portfolio container -->
